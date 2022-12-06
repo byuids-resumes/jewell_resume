@@ -19,9 +19,12 @@ Salesman and Business Analytics/Data Science Major at Brigham Young University -
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.92 GPA graduating __April 2023__
-- Business Analytics Major/Data Science Minor and recipient of full tuition scholarship.
+- Business Analytics Major/Data Science Minor
+- Full-Tuition Scholarship
 
-## Related Experience
+## Relevant Classes
+
+- Data Science Programming in Python
 
 ### Sales Manager / Senior Account Executive
 
@@ -32,6 +35,13 @@ __Frozen Dessert Supplies__, Rexburg, ID
 - Cooperated daily with the company directors and VP of operations to develop replicable SOP’s and sales strategies to reach company-wide sales goals.
 - Consistently performed as the top Account Executive with an average performance of 220% of quota.
 - Director of Sales Hank Fowles – (480) 930-1035
+
+### Place you did the things you did
+
+- Build web scraping tool to find and format school district technology data.
+- Used R and the Rvest package to parse and format web data.
+- Saved 30 hours a month with the automated scripts.
+
 
 ### Direct-to-Home Sales Representative
 
@@ -57,9 +67,7 @@ __Missionary Training Center__, Provo, UT
 `November 2017 - December 2019`
 __Norway Oslo Mission__, Oslo, Norway
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+- *Stuff you did*
 
 ## Skills
 
